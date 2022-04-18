@@ -1,0 +1,11 @@
+{
+  "name": "ek-site-documentacao",
+  "version": "0.1.0",
+  "description": "Documentação do novo site da Casa Museu Ema Klabin",
+  "main": "index.js",
+  "scripts": {
+    "docs:start": "docsify serve ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
